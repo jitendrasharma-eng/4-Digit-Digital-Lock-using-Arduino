@@ -1,9 +1,6 @@
 <h1 align="center">🔐 4-Digit Digital Lock using Arduino</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-Project-blue?style=flat-square" alt="Arduino Badge">
-  <img src="https://img.shields.io/badge/Status-Working-green?style=flat-square" alt="Status Badge">
-</p>
+
 
 <p>This project is a <strong>4-digit digital lock</strong> implemented using an <strong>Arduino Uno</strong>, <strong>4x4 keypad</strong>, <strong>16x2 LCD</strong>, and <strong>servo motor</strong>. The lock system allows users to enter a predefined PIN using the keypad. If the correct PIN is entered, the servo motor unlocks the system; otherwise, a buzzer alerts for incorrect attempts.</p>
 
